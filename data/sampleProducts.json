@@ -1,0 +1,122 @@
+[
+  {
+    "name": "iPhone 14",
+    "price": 899.99,
+    "description": "Apple iPhone 14 with A15 Bionic and dual-camera system.",
+    "category": "Smartphones",
+    "brand": "Apple",
+    "stock": 20,
+    "rating": 4.7,
+    "reviews": 1234,
+    "imageUrl": "https://images.unsplash.com/photo-1663254735503-736f005eaada?auto=format&fit=crop&w=600&q=80",
+    "isFeatured": true
+  },
+  {
+    "name": "Samsung Galaxy S22",
+    "price": 799.99,
+    "description": "Samsung Galaxy S22 with 120Hz AMOLED display and triple-camera.",
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "stock": 30,
+    "rating": 4.6,
+    "reviews": 1156,
+    "imageUrl": "https://images.unsplash.com/photo-1649777482704-80b7f50689be?auto=format&fit=crop&w=600&q=80",
+    "isFeatured": true
+  },
+  {
+    "name": "OnePlus 11",
+    "price": 699.99,
+    "description": "OnePlus 11 with Snapdragon 8 Gen 2 and fast charging.",
+    "category": "Smartphones",
+    "brand": "OnePlus",
+    "stock": 25,
+    "rating": 4.5,
+    "reviews": 876,
+    "imageUrl": "https://images.unsplash.com/photo-1670790934024-25a2c8122e4b?auto=format&fit=crop&w=600&q=80",
+    "isFeatured": false
+  },
+  {
+    "name": "Google Pixel 7",
+    "price": 749.99,
+    "description": "Google Pixel 7 with Tensor G2 chip and smart camera features.",
+    "category": "Smartphones",
+    "brand": "Google",
+    "stock": 18,
+    "rating": 4.8,
+    "reviews": 982,
+    "imageUrl": "https://images.unsplash.com/photo-1660312479359-987db250ae9e?auto=format&fit=crop&w=600&q=80",
+    "isFeatured": false
+  },
+  {
+    "name": "Nothing Phone 1",
+    "price": 599.99,
+    "description": "Unique transparent design with Glyph interface.",
+    "category": "Smartphones",
+    "brand": "Nothing",
+    "stock": 40,
+    "rating": 4.4,
+    "reviews": 654,
+    "imageUrl": "https://images.unsplash.com/photo-1657876842356-e4b4a4f5e7c1?auto=format&fit=crop&w=600&q=80",
+    "isFeatured": false
+  },
+  {
+    "name": "Motorola Edge 30",
+    "price": 549.99,
+    "description": "Lightweight 144Hz display and 50MP camera.",
+    "category": "Smartphones",
+    "brand": "Motorola",
+    "stock": 22,
+    "rating": 4.2,
+    "reviews": 432,
+    "imageUrl": "https://images.unsplash.com/photo-1606811842437-04aaec2032e6?auto=format&fit=crop&w=600&q=80",
+    "isFeatured": false
+  },
+  {
+    "name": "Realme GT Neo 3",
+    "price": 499.99,
+    "description": "150W fast charging and Dimensity 8100 processor.",
+    "category": "Smartphones",
+    "brand": "Realme",
+    "stock": 35,
+    "rating": 4.3,
+    "reviews": 528,
+    "imageUrl": "https://images.unsplash.com/photo-1660158946593-c85ab798b2fd?auto=format&fit=crop&w=600&q=80",
+    "isFeatured": false
+  },
+  {
+    "name": "ASUS ROG Phone 6",
+    "price": 899.99,
+    "description": "Gaming-focused phone with cooling tech and AMOLED display.",
+    "category": "Smartphones",
+    "brand": "ASUS",
+    "stock": 16,
+    "rating": 4.6,
+    "reviews": 618,
+    "imageUrl": "https://images.unsplash.com/photo-1606813902913-4c1ba96447b3?auto=format&fit=crop&w=600&q=80",
+    "isFeatured": true
+  },
+  {
+    "name": "Vivo X80 Pro",
+    "price": 679.99,
+    "description": "Zeiss optics, 120Hz LTPO screen, and gimbal stabilization.",
+    "category": "Smartphones",
+    "brand": "Vivo",
+    "stock": 27,
+    "rating": 4.1,
+    "reviews": 342,
+    "imageUrl": "https://images.unsplash.com/photo-1651312602413-57e3b7dc52c4?auto=format&fit=crop&w=600&q=80",
+    "isFeatured": false
+  },
+  {
+    "name": "Infinix Zero 5G",
+    "price": 299.99,
+    "description": "Affordable 5G phone with clean UI and solid battery life.",
+    "category": "Smartphones",
+    "brand": "Infinix",
+    "stock": 50,
+    "rating": 4.0,
+    "reviews": 212,
+    "imageUrl": "https://images.unsplash.com/photo-1650525191737-0240d308de0d?auto=format&fit=crop&w=600&q=80",
+    "isFeatured": false
+  }
+]
